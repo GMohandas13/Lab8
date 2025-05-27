@@ -1,7 +1,7 @@
 {
     "name": "Lab8",
     "short_name": "Gautam",
-    "description": "",
+    "description": "PWA",
     "start_url": "./index.html",
     "display": "fullscreen",
     "background_color": "aliceblue",
