@@ -1,9 +1,9 @@
 {
     "name": "Lab8",
-    "short_name": "Gautam",
+    "short_name": "Gautam, Travis",
     "description": "PWA",
     "start_url": "./index.html",
-    "display": "fullscreen",
+    "display": "standalone",
     "background_color": "aliceblue",
     "theme_color": "rebeccapurple",
     "icons": [
